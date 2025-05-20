@@ -1,8 +1,8 @@
 #!/bin/bash
 
 # Define source and destination
-SRC_DIR="Source Directory"
-DEST_DIR="Destination Directory"
+SRC_DIR="Source Directory" #Specify the files that you want to backup
+DEST_DIR="Destination Directory" #Specify where you want to backup those files
 
 # Create a filename with the current date
 DATE=$(date +%Y-%m-%d) 
